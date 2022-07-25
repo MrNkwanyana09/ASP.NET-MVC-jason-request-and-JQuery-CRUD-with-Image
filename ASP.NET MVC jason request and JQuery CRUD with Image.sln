@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET MVC jason request and JQuery CRUD with Image", "ASP.NET MVC jason request and JQuery CRUD with Image\ASP.NET MVC jason request and JQuery CRUD with Image.csproj", "{C8D46AA1-9E8B-4C5E-B150-483367A4041E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8D46AA1-9E8B-4C5E-B150-483367A4041E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D46AA1-9E8B-4C5E-B150-483367A4041E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D46AA1-9E8B-4C5E-B150-483367A4041E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D46AA1-9E8B-4C5E-B150-483367A4041E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D55074F2-952B-4653-97D9-8D8FC42A7733}
+	EndGlobalSection
+EndGlobal
